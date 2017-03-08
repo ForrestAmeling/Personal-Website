@@ -31,3 +31,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# https://u1tron.github.io/Personal-Website/
+
+#http://localhost:4000/
