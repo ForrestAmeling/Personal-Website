@@ -122,6 +122,9 @@ px      68    160    252    */
     color: white;
   }
 
+  #about-bkrd .block {
+    padding-left: 0px;
+  }
   #about-bkrd .block h1 {
     font-size: 30px;
     color: white;
@@ -131,6 +134,9 @@ px      68    160    252    */
     color: white;
   }
 
+  #portfolio-bkrd .block {
+    padding-left: 0px;
+  }
   #portfolio-bkrd .block h1 {
     font-size: 30px;
     color: white;
@@ -140,6 +146,9 @@ px      68    160    252    */
     color: white;
   }
 
+  #blog-bkrd .block {
+    padding-left: 0px;
+  }
   #blog-bkrd .block h1 {
     font-size: 30px;
     color: white;
@@ -149,6 +158,9 @@ px      68    160    252    */
     color: white;
   }
 
+  #contact-bkrd .block {
+    padding-left: 0px;
+  }
   #contact-bkrd .block h1 {
     font-size: 30px;
     color: white;
