@@ -285,8 +285,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #about-bkrd {
   background: url("https://images.unsplash.com/photo-1469434438443-45d782c09d4b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=dc8d308a13d5489e8e106aa94a7c83b6") no-repeat;
   background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 137px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   position: relative;
   background-attachment: fixed;
   text-align: center;
@@ -329,8 +329,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-bkrd {
   background: url("https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=eb319b25fcdf82c6f821ff9c57964a30") no-repeat;
   background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 107px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   position: relative;
   background-attachment: fixed;
   text-align: center;
@@ -373,8 +373,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #blog-bkrd {
   background: url("https://images.unsplash.com/photo-1472506558072-1fe530d75951?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=e2d5904b11e8efb58fc4deb8041916fb") no-repeat;
   background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 107px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   position: relative;
   background-attachment: fixed;
   text-align: center;
@@ -417,8 +417,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #contact-bkrd {
   background: url("https://images.unsplash.com/photo-1445346366695-5bf62de05412?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=aa4fae9d53f807bf017c97fc6b766895") no-repeat;
   background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 137px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   position: relative;
   background-attachment: fixed;
 }
