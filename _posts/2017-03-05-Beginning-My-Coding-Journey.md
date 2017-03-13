@@ -1,10 +1,9 @@
 ---
 layout: post
-title: My Coding Journey
+title: Beginning My Coding Journey
 date: 2017-03-05 12:00
 author: Forrest Ameling
 lead: "Coding is creating, and creating is what I live for."
-category: coding
 Permalink: none
 ---
 
