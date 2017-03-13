@@ -65,6 +65,32 @@ px      68    160    252    344    436    528    620    712    */
 					Index Close
 -----------------------------------------------*/
   /*=============================================*/
+
+
+
+  #slider .block {
+    padding-left: 0px;
+  }
+
+  #about-bkrd .block {
+    padding-left: 0px;
+  }
+
+  #portfolio-bkrd .block {
+    padding: 0;
+    margin:auto;
+  }
+
+  #blog-bkrd .block {
+    padding-left: 0px;
+  }
+
+  #contact-bkrd .block {
+    padding-left: 0px;
+  }
+
+
+
   /*---------------------------------------------
 					contact start
 -----------------------------------------------*/
@@ -135,7 +161,8 @@ px      68    160    252    */
   }
 
   #portfolio-bkrd .block {
-    padding-left: 0px;
+    padding: 0;
+    margin:auto;
   }
   #portfolio-bkrd .block h1 {
     font-size: 30px;
@@ -191,16 +218,7 @@ px      68    160    252    */
   #service .thumbnail {
     padding-bottom: 70px;
   }
-  /*--
-	call-to-action Start
---*/
-  #call-to-action p {
-    padding: 0px 0px 40px;
-  }
-  #call-to-action .btn {
-    padding: 10px 20px;
-    font-size: 15px;
-  }
+
   /*--
 	content Start
 --*/
@@ -230,6 +248,16 @@ px      68    160    252    */
 					Index Close
 -----------------------------------------------*/
   /*=============================================*/
+
+
+  .social-icons i {
+    color: #2C2C2C;
+    margin-right: 12px;
+    font-size: 25px;
+  }
+  #twitter-sm-window {
+    margin-right: 0;
+  }
 
   /*=============================================*/
   /*---------------------------------------------
@@ -292,3 +320,13 @@ px      68    160    252    344    436    */
 	Overrides styles for devices with a
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
+@media only screen and (max-width: 345px) {
+  .social-icons i {
+    color: #2C2C2C;
+    margin-right: 5px;
+    font-size: 25px;
+  }
+  #twitter-sm-window {
+    margin-right: 0;
+  }
+}
